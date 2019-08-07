@@ -13,7 +13,9 @@ Visualizing Data (Excel and Tableau) is licensed under a <a href="http://creativ
 
 # Data Visualization with Microsoft Excel
 
-We'll use the same 1870 Federal Census Grinnell Township file to build preliminary data visualizations in Microsoft Excel. Navigate to \\storage\projects\HIS\HIS-295-02\Iowa_Township_Data\1870s\1870_Census_Data in File Explorer and copy the file to your Desktop again if needed.
+Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Open the file in Microsoft Excel.
+
+Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <strong>Desktop</strong>. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
 
 <p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_7.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="" width="840" height="542" /></a></p>
 

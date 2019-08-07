@@ -155,10 +155,6 @@ Click <strong>File-&gt; Save to Tableau Public</strong>, and use your login cred
 
 Your Tableau Public online profile can host your interactive visualizations, and also gives you the option to share, download, and embed the interactive content.
 
-&nbsp;
-<div id="viz1534519334457" class="tableauPlaceholder" style="position: relative;"><noscript><a href='#'><img alt='Tree Chart ' src='https://public.tableau.com/static/images/Pu/PurcellTableauTutorial/TreeChart/1_rss.png' style='border: none' /></a></noscript><object class="tableauViz" style="display: none;" width="300" height="150"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param name="name" value="PurcellTableauTutorial/TreeChart" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="https://public.tableau.com/static/images/Pu/PurcellTableauTutorial/TreeChart/1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /></object></div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1534519334457');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
 <hr />
 
 A wide range of data analysis and visualization programs are available, depending on what types of data you are wanting to analyze and what the end goal is for your data analysis and visualization. Software programs like Tableau, <a href="https://plot.ly/">Plotly</a>, and Microsoft <a href="https://powerbi.microsoft.com/en-us/">Power BI</a> are subscription-driven software programs that provide a range of interactive data visualization options. Such software programs have a low barrier to entry and allow a user with minimal technical expertise to quickly generate powerful, interactive visualizations.
@@ -177,4 +173,3 @@ The challenge of using open-source programs is that they often require a higher 
  	<li>How would you compare your experience analyzing and visualizing data in Microsoft Excel and Tableau? What similarities and differences did you notice between the two programs?</li>
  	<li>What other thoughts, questions, or ideas about data analysis and visualization did you have while going through this tutorial? How can you think more critically about the data visualizations you encounter on the internet or in journalistic publications?</li>
 </ul>
-</blockquote>

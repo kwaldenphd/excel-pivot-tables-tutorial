@@ -29,7 +29,7 @@ This dataset includes data on the number of Iowa students who took AP courses in
 
 2-To calculate the number of American Indian and Alaksa students who took AP courses, select the values in column D ("Number of American Indian/Alaska Native Students), and <strong>click the AutoSum icon</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true" alt="" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.png?raw=true" alt="" /></a></p>
 
 3-Excel has calculated the sum of the values in your selected cells. The result (118) is printed below your selected values.
 
@@ -45,7 +45,7 @@ This dataset includes data on the number of Iowa students who took AP courses in
 
 <p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true" alt="" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5a.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5a.png?raw=true" alt="" /></a></p>
 
 6-Formatting your data as a table in Excel allows you to sort values within specific columns, and filter the values that display in your table.
 
@@ -60,7 +60,7 @@ This dataset includes data on the number of Iowa students who took AP courses in
 
 2-Leave the default selections in the pop-up window and click <strong>OK</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true" alt="" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.PNG?raw=true" alt="" /></a></p>
   
 3-Your data is now formatted as a <strong>PivotChart</strong> sheet, which will allow sorting, filtered searching, and visualization.
 
@@ -113,7 +113,7 @@ What types of visualizations were you able to generate in Excel using PivotChart
 
 13-<strong>Open Tableau</strong> by clicking on the <strong>Desktop icon</strong>, or searching in the <strong>Start menu</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.png?raw=true" alt="" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_16.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_16.png?raw=true" alt="" /></a></p>
 
 14-<strong>Click on Microsoft Excel</strong> and navigate to the <strong>1870 Federal Census Grinnell Township file</strong> saved to your Desktop.
 

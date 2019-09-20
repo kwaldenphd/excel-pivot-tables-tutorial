@@ -21,13 +21,15 @@ This dataset includes data on the number of Iowa students who took AP courses in
 
 &nbsp;
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_1.png?raw=true" alt="" width="840" height="550" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.PNG?raw=true" alt="" width="347" height="137" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1a.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1a.png?raw=true" alt="" /></a></p>
+
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1aa.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1aa.png?raw=true" alt="" /></a></p>
 
 2-To calculate the number of American Indian and Alaksa students who took AP courses, select the values in column D ("Number of American Indian/Alaska Native Students), and <strong>click the AutoSum icon</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true" alt="" width="191" height="282" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true" alt="" /></a></p>
 
 3-Excel has calculated the sum of the values in your selected cells. The result (118) is printed below your selected values.
 
@@ -35,65 +37,61 @@ This dataset includes data on the number of Iowa students who took AP courses in
 
 ## Creating a Table in Excel
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true" alt="" /></a></p>
 
 5-Select all the cells in your table that include data. Click Insert -- Table to format the data as a table within Excel. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true" alt="" /></a></p>
 
 6-Formatting your data as a table in Excel allows you to sort values within specific columns, and filter the values that display in your table.
 
 
 # Data Visualization with Microsoft Excel
 
-Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Open the file in Microsoft Excel.
-
-Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <strong>Desktop</strong>. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
-
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true" alt="" /></a></p>
 
 1-Start in <strong>cell A1</strong> and <strong>select all cells in the sheet</strong> that contain data. Click <strong>Insert-&gt; PivotChart</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true" alt="" /></a></p>
 
 2-Leave the default selections in the pop-up window and click <strong>OK</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true" alt="" /></a></p>
   
 3-Your data is now formatted as a <strong>PivotChart</strong> sheet, which will allow sorting, filtered searching, and visualization.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true" alt="" /></a></p>
 
 4-The <strong>PivotChart side bar</strong> allows you to select specific data fields and arrange or restructure them to generate visualizations.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.png?raw=true" alt="" /></a></p>
 
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.png?raw=true" alt="" /></a></p>
 
 5-To compare the number of students taking AP courses, click and drag the "Advanced Placement Course...." field into the Axis (Categories) box. Click and drag the a "Number of ...... " field into the Values box.
 
 6-The <strong>default Value and bar chart</strong> is showing us a count of the number of data points represented in each field.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true" alt="" width="415" height="703" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true" alt="" /></a></p>
 
 7-Click on the arrow next to a field in the Values box and select Value Field Settings.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.PNG?raw=true" alt="" width="706" height="324" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.png?raw=true" alt="" /></a></p>
 
 8-Click <strong>Sum</strong> to have Excel calculate the total number of students for that field.
 
 9-Make this change for any fields in the Values box.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.PNG?raw=true" alt="" width="840" height="396" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.png?raw=true" alt="" /></a></p>
 
 10-We now have a bar chart that compares the number of students who took specific types of AP courses.
 
@@ -115,21 +113,21 @@ What types of visualizations were you able to generate in Excel using PivotChart
 
 13-<strong>Open Tableau</strong> by clicking on the <strong>Desktop icon</strong>, or searching in the <strong>Start menu</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.PNG?raw=true" alt="" width="522" height="507" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_16.png?raw=true" alt="" /></a></p>
 
 14-<strong>Click on Microsoft Excel</strong> and navigate to the <strong>1870 Federal Census Grinnell Township file</strong> saved to your Desktop.
 
 15-Click <strong>Open</strong> to load the data into Tableau.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.PNG?raw=true" alt="" width="840" height="451" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.png?raw=true" alt="" /></a></p>
 
 16-Tableau's Data Source previews the structure of the data we loaded from the Excel file. Tableau determines what type of data is contained in each field (integer number values, dates, geographic spatial information, strings of letters or characters, etc.).
 
 17-If we wanted to analyze or visualize data from multiple tables, Tableau's <strong>Data Source tab</strong> offers some functionality for joining tables and building a database structure.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="" width="282" height="31" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.PNG?raw=true" alt="" width="840" height="445" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.png?raw=true" alt="" /></a></p>
 
 18-Click on the <strong>Sheet 1 icon</strong> next to Data Source to move into Tableau's visualization builder interface.
 
@@ -139,27 +137,27 @@ What types of visualizations were you able to generate in Excel using PivotChart
 
 20-To visualize the distribution of students taking certain types of AP courses, we need a graph that counts the number of students for each AP course category.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.PNG?raw=true" alt="" width="840" height="449" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.png?raw=true" alt="" /></a></p>
 
 21-Drag "Advanced Placement Course Enrollment...." from Dimensions to Rows, and "Number of......Students" to Columns.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true" alt="" width="673" height="545" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true" alt="" /></a></p>
 
 22-Tableau recognizes the combination of data elements and automatically generates a vertical bar chart.
 
 23-<strong>Move your cursor over the chart</strong> to see the interactive data points.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_23.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.PNG?raw=true" alt="" width="840" height="490" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_23.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true" alt="" /></a></p>
 
 24-Tableau recognizes the combination of data elements and automatically generates a vertical bar chart.
 
 25-<strong>Move your cursor over the chart</strong> to see the interactive data points.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_25.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_25.PNG?raw=true" alt="" width="840" height="490" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_25.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_25.png?raw=true" alt="" /></a></p>
 
 26-Tableau allows chart customization with the <strong>Marks panel</strong>. For example, dragging the "Advanced Placement...." field from <strong>Dimensions</strong> to the <strong>Color</strong> icon in <strong>Marks</strong> colors the bars according to the different AP Course categories.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_24.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_24.PNG?raw=true" alt="" width="840" height="490" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_24.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_24.png?raw=true" alt="" /></a></p>
 
 27-The <strong>Show Me panel</strong> on the right-hand side of the Tableau window shows other types of visualizations you can build in Tableau using this combination of data fields and calculations.
 
@@ -177,16 +175,16 @@ How could those visualizations shape or impact your understanding of the data? D
 
 One of Tableau's features is that it allows users to upload interactive data visualizations to the web and embed them in websites and other online spaces.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true" alt="" width="840" height="518" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true" alt="" /></a></p>
 
 If you have additional time, <a href="https://public.tableau.com/en-us/s/">create a free profile</a> on Tableau Public's website.
 
 Click <strong>File-&gt; Save to Tableau Public</strong>, and use your login credentials to save your Tableau workbook to Tableau Public's website.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true" alt="" width="840" height="561" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_30.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_30.PNG?raw=true" alt="" width="254" height="34" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_30.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_30.PNG?raw=true" alt="" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="" width="267" height="207" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="" /></a></p>
 
 Your Tableau Public online profile can host your interactive visualizations, and also gives you the option to share, download, and embed the interactive content.

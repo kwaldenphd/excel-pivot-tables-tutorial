@@ -1,4 +1,4 @@
-# Visualizing Data With Excel Pivot Tables and Tableau
+# Working With Data In Excel and Tableau
 
 This tutorial was written by <a href="https://www.grinnell.edu/users/waldenka">Katherine Walden</a>, Digital Liberal Arts Specialist at Grinnell College.
 
@@ -13,37 +13,39 @@ Visualizing Data (Excel and Tableau) is licensed under a <a href="http://creativ
 
 # Analyzing Data in Microsoft Excel
 
-1-Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub repo. Open the file in Microsoft Excel.
+1-Download the HUM295_Sample_Data.xlsx file from this GitHub repo. Open the file in Microsoft Excel.
 
-Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <strong>Desktop</strong>. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
+Save the file to your Desktop. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
+
+This dataset includes data on the number of Iowa students who took AP courses in the 2011-2012 school year.
 
 &nbsp;
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_2.png?raw=true" alt="" width="840" height="550" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_1.png?raw=true" alt="" width="840" height="550" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="347" height="137" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1.PNG?raw=true" alt="" width="347" height="137" /></a></p>
 
-2-To calculate the number of females ages 5-17, <strong>select the values in column T</strong> ("Number of females aged 5-17), and <strong>click the AutoSum icon</strong>.
+2-To calculate the number of American Indian and Alaksa students who took AP courses, select the values in column D ("Number of American Indian/Alaska Native Students), and <strong>click the AutoSum icon</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true" alt="" width="191" height="282" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_1b.PNG?raw=true" alt="" width="191" height="282" /></a></p>
 
-3-Excel has calculated the sum of the values in your selected cells. The result (115) is printed in cell T163.
+3-Excel has calculated the sum of the values in your selected cells. The result (118) is printed below your selected values.
 
 4-The AutoSum function defaults to calculating the sum of selected cells, but it can also perform other mathematical calculations.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_4.png?raw=true" alt="" width="840" height="547" /></a></p>
+## Creating a Table in Excel
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_5.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_5.png?raw=true" alt="" width="321" height="269" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_2.png?raw=true" alt="" width="321" height="269" /></a></p>
 
-5-To calculate the average age of female householders, <strong>select the values in column F</strong> ("Age of female householder") and <strong>click the arrow next to the AutoSum icon</strong>.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_3.png?raw=true" alt="" width="321" height="269" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_6.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-tutorial/blob/master/screenshots/Capture_6.PNG?raw=true" alt="" width="246" height="235" /></a></p>
+5-Select all the cells in your table that include data. Click Insert -- Table to format the data as a table within Excel. 
 
-6-<strong>Select Average</strong> to calculate the average value for your selected cells. The result (37.10458) is printed in cell G163 below the selected data values.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_4.png?raw=true" alt="" width="321" height="269" /></a></p>
 
-## Final Reflection
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_5.png?raw=true" alt="" width="321" height="269" /></a></p>
 
-Explore the AutoSum functions with other data fields. How do these calculations impact or inform your understanding of the data? What questions do you have about the data or calculations?
+6-Formatting your data as a table in Excel allows you to sort values within specific columns, and filter the values that display in your table.
 
 
 # Data Visualization with Microsoft Excel
@@ -52,45 +54,52 @@ Download the 1870_Federal_Census_Grinnell_Township.csv file from this GitHub rep
 
 Save the <strong>1870 Federal Census Grinnell Township file</strong> to your <strong>Desktop</strong>. Microsoft Excel includes wide range of data analysis tools that require minimal specialized technical knowledge.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_7.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="" width="840" height="542" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_6.png?raw=true" alt="" width="321" height="269" /></a></p>
 
 1-Start in <strong>cell A1</strong> and <strong>select all cells in the sheet</strong> that contain data. Click <strong>Insert-&gt; PivotChart</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true" alt="" width="398" height="353" /></a></p>
-  
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_7.png?raw=true" alt="" width="321" height="269" /></a></p>
+
 2-Leave the default selections in the pop-up window and click <strong>OK</strong>.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="" width="840" height="544" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_8.png?raw=true" alt="" width="321" height="269" /></a></p>
   
 3-Your data is now formatted as a <strong>PivotChart</strong> sheet, which will allow sorting, filtered searching, and visualization.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="" width="410" height="683" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.png?raw=true" alt="" width="321" height="269" /></a></p>
 
 4-The <strong>PivotChart side bar</strong> allows you to select specific data fields and arrange or restructure them to generate visualizations.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_9.PNG?raw=true" alt="" width="840" height="429" /></a></p>
 
-5-To compare the average age of male and female householders, <strong>click and drag both Fields into the Values box</strong>.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_10.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_11.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+
+
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_12.PNG?raw=true" alt="" width="840" height="429" /></a></p>
+
+5-To compare the number of students taking AP courses, click and drag the "Advanced Placement Course...." field into the Axis (Categories) box. Click and drag the a "Number of ...... " field into the Values box.
 
 6-The <strong>default Value and bar chart</strong> is showing us a count of the number of data points represented in each field.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_13.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_13.png?raw=true" alt="" width="415" height="703" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_13.png?raw=true" alt="" width="415" height="703" /></a></p>
 
-7-Click on the <strong>arrow</strong> next to a <strong>field</strong> in the <strong>Values</strong> box and <strong>select Value Field Settings</strong>.
+7-Click on the arrow next to a field in the Values box and select Value Field Settings.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_14.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_14.PNG?raw=true" alt="" width="706" height="324" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_14.PNG?raw=true" alt="" width="706" height="324" /></a></p>
 
-8-Click <strong>Average</strong> to have Excel calculate the average value for those data points.
+8-Click <strong>Sum</strong> to have Excel calculate the total number of students for that field.
 
-9-Make this change for both fields.
+9-Make this change for any fields in the Values box.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_15.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_15.PNG?raw=true" alt="" width="840" height="396" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_15.PNG?raw=true" alt="" width="840" height="396" /></a></p>
 
-10-We now have a bar chart that compares the average ages of male and female householders.
+10-We now have a bar chart that compares the number of students who took specific types of AP courses.
 
 11-You can right click on various parts of the bar chart to customize colors and labels.
 
-12-<strong>Experiment with other PivotChart functions and other data fields</strong> to generate different types of visualizations.
+12-Experiment with other PivotChart functions and other data fields to generate different types of visualizations.
 
 ## Reflection Questions
 
@@ -110,11 +119,9 @@ What types of visualizations were you able to generate in Excel using PivotChart
 
 14-<strong>Click on Microsoft Excel</strong> and navigate to the <strong>1870 Federal Census Grinnell Township file</strong> saved to your Desktop.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_17.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_17.PNG?raw=true" alt="" width="964" height="541" /></a></p>
-
 15-Click <strong>Open</strong> to load the data into Tableau.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_18.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_18.PNG?raw=true" alt="" width="840" height="451" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_20.PNG?raw=true" alt="" width="840" height="451" /></a></p>
 
 16-Tableau's Data Source previews the structure of the data we loaded from the Excel file. Tableau determines what type of data is contained in each field (integer number values, dates, geographic spatial information, strings of letters or characters, etc.).
 
@@ -122,48 +129,41 @@ What types of visualizations were you able to generate in Excel using PivotChart
 
 <p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="" width="282" height="31" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true" alt="" width="840" height="445" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_21.PNG?raw=true" alt="" width="840" height="445" /></a></p>
 
-18-Click on the <strong>Sheet 1 icon</strong> next to Data Source to move into Tableau's visualization builder interface
-<blockquote>How is the Federal census data in Tableau presented or organized differently than the same information in Excel? What similarities or differences do you notice between the two user interfaces for building data visualizations?</blockquote>
+18-Click on the <strong>Sheet 1 icon</strong> next to Data Source to move into Tableau's visualization builder interface.
+
+<blockquote>How is the data in Tableau presented or organized differently than the same information in Excel? What similarities or differences do you notice between the two user interfaces for building data visualizations?</blockquote>
 
 19-Tableau distinguishes between <strong>Dimensions</strong> (data fields that cannot be aggregated) and <strong>Measures</strong> (data fields that can be aggregated--or have mathematical operations performed on them).
 
-20-To visualize the distribution of male householder occupations, we need a graph that counts the number of names represented for each distinct occupation term.
+20-To visualize the distribution of students taking certain types of AP courses, we need a graph that counts the number of students for each AP course category.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_21.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_21.PNG?raw=true" alt="" width="840" height="449" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_22.PNG?raw=true" alt="" width="840" height="449" /></a></p>
 
-21-Drag <strong>"Last name" from Dimensions to Rows</strong>, and<strong> "Occupation of male householder" to Columns</strong>.
+21-Drag "Advanced Placement Course Enrollment...." from Dimensions to Rows, and "Number of......Students" to Columns.
 
-22-Tableau's default visualization is a table that shows where last names and occupations intersect in the data.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.png?raw=true" alt="" width="673" height="545" /></a></p>
 
-23-To visualize the distribution of occupations, we need to calculate the count of Last Name data points for each Occupation.
+22-Tableau recognizes the combination of data elements and automatically generates a vertical bar chart.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_22.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_22.png?raw=true" alt="" width="673" height="545" /></a></p>
+23-<strong>Move your cursor over the chart</strong> to see the interactive data points.
 
-24-Move your cursor to the <strong>Last Name icon in Rows</strong> and <strong>click the dropdown arrow</strong> that appears.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_23.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_23.PNG?raw=true" alt="" width="840" height="490" /></a></p>
 
-25-Select <strong>Measure</strong> and <strong>Count</strong> to convert the Last Name field to a calculation for each Occupation category.
+24-Tableau recognizes the combination of data elements and automatically generates a vertical bar chart.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_23.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_23.PNG?raw=true" alt="" width="840" height="490" /></a></p>
+25-<strong>Move your cursor over the chart</strong> to see the interactive data points.
 
-26-Tableau recognizes the combination of data elements and automatically generates a vertical bar chart.
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_25.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_25.PNG?raw=true" alt="" width="840" height="490" /></a></p>
 
-27-<strong>Move your cursor over the chart</strong> to see the interactive data points.
+26-Tableau allows chart customization with the <strong>Marks panel</strong>. For example, dragging the "Advanced Placement...." field from <strong>Dimensions</strong> to the <strong>Color</strong> icon in <strong>Marks</strong> colors the bars according to the different AP Course categories.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_24.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_24.PNG?raw=true" alt="" width="840" height="484" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataVizscreenshots/Capture_24.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/HUM295-DataViz/screenshots/Capture_24.PNG?raw=true" alt="" width="840" height="490" /></a></p>
 
-28-Tableau allows chart customization with the <strong>Marks panel</strong>. For example, dragging the "Occupation of male householder" field from <strong>Dimensions</strong> to the <strong>Color</strong> icon in <strong>Marks</strong> colors the bars according to the different Occupation categories.
+27-The <strong>Show Me panel</strong> on the right-hand side of the Tableau window shows other types of visualizations you can build in Tableau using this combination of data fields and calculations.
 
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_25.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_25.PNG?raw=true" alt="" width="840" height="618" /></a></p>
-
-29-The <strong>Show Me panel</strong> on the right-hand side of the Tableau window shows other types of visualizations you can build in Tableau using this combination of data fields and calculations.
-
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_26.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_26.png?raw=true" alt="" width="367" height="53" /></a></p>
-
-<p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_27.png?raw=true"><img class="aligncenter size-full wp-image-350" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_27.png?raw=true" alt="" width="199" height="103" /></a></p>
-
-30-Experiment with other data fields and calculations to generate different types of visualizations. You can add new worksheets or duplicate an existing worksheet to build multiple visualizations.
+28-Experiment with other data fields and calculations to generate different types of visualizations. You can add new worksheets or duplicate an existing worksheet to build multiple visualizations.
 
 ## Reflection Questions
 
@@ -174,6 +174,7 @@ How could those visualizations shape or impact your understanding of the data? D
 <hr />
 
 ## Uploading to Tableau Public
+
 One of Tableau's features is that it allows users to upload interactive data visualizations to the web and embed them in websites and other online spaces.
 
 <p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true" alt="" width="840" height="518" /></a></p>
@@ -189,22 +190,3 @@ Click <strong>File-&gt; Save to Tableau Public</strong>, and use your login cred
 <p align="center"><a href="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/excel-pivot-tables-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="" width="267" height="207" /></a></p>
 
 Your Tableau Public online profile can host your interactive visualizations, and also gives you the option to share, download, and embed the interactive content.
-
-<hr />
-
-A wide range of data analysis and visualization programs are available, depending on what types of data you are wanting to analyze and what the end goal is for your data analysis and visualization. Software programs like Tableau, <a href="https://plot.ly/">Plotly</a>, and Microsoft <a href="https://powerbi.microsoft.com/en-us/">Power BI</a> are subscription-driven software programs that provide a range of interactive data visualization options. Such software programs have a low barrier to entry and allow a user with minimal technical expertise to quickly generate powerful, interactive visualizations.
-
-However, many digital scholars, including the authors of <em>Exploring Big Historical Data, </em>encourage using open-source or freely-available software and programs for historical analysis whenever possible, particularly in education or research applications of digital tools. An open-source ethos can make code and data available via platforms like <a href="https://github.com/">GitHub</a>, because the tools used to analyze and visualize the data are not proprietary and are freely available.
-
-The challenge of using open-source programs is that they often require a higher level of technical knowledge, competency, or proficiency to effectively use. For example, the popular open-source resource <a href="https://d3js.org/">D3.js</a> is a JavaScript library that can use a back-end CSV file or database to create an interactive, public-facing visualization. But generating a D3 visualization for online display requires back-end coding in Python, using a few customized libraries, some work with HTML and CSS, and elements of JavaScript—a much different process then the relatively straightforward Tableau interface.
-
-<hr />
-
-# Final reflection questions:
-<ul>
- 	<li>How did you understand or think about data analysis and visualization before starting this tutorial? How has your understanding or thinking changed or shifted by the end of the tutorial?</li>
- 	<li>How would you describe different types of data or data structures to someone who was learning about them for the first time? What questions do you have about data types and structures as they were presented in this tutorial?</li>
- 	<li>Thinking about Blevins's sample data and the Iowa Township data, how did thinking about the source and structure for the data shape your understanding of it?</li>
- 	<li>How would you compare your experience analyzing and visualizing data in Microsoft Excel and Tableau? What similarities and differences did you notice between the two programs?</li>
- 	<li>What other thoughts, questions, or ideas about data analysis and visualization did you have while going through this tutorial? How can you think more critically about the data visualizations you encounter on the internet or in journalistic publications?</li>
-</ul>
